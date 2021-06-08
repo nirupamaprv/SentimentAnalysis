@@ -1,2 +1,2 @@
 # SentimentAnalysis
-learning the nltk library
+exploring the nltk library
